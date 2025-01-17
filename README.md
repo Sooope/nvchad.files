@@ -9,6 +9,7 @@ Welcome to download
 # Features
 
  - Python lsp (without linting)
+ - Automatically changes background color for terminal
 
 # Credits
 

@@ -1,4 +1,4 @@
-require "nvchad.options"
+require("nvchad.options")
 
 -- add yours here!
 
@@ -10,3 +10,7 @@ local o = vim.o
 o.shiftwidth = 4
 o.tabstop = 4
 o.softtabstop = 4
+
+-- vim.api.nvim_create_autocmd({ "VimEnter" }, {
+--     command = "!kitty @ set-spacing padding=0",
+-- })
