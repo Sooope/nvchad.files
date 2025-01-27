@@ -11,6 +11,10 @@ local options = {
         "vimdoc",
         "yaml",
         "python",
+        "svelte",
+        "astro",
+        "typescript",
+        "javascript",
     },
 
     highlight = {

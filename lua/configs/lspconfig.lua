@@ -7,7 +7,10 @@ local lspconfig = require("lspconfig")
 -- list of all servers configured.
 lspconfig.servers = {
     "lua_ls",
-    "pyright",
+    -- "pyright",
+    "svelte",
+    "astro",
+    "tailwindcss",
 }
 
 -- list of servers configured with default config.
